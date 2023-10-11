@@ -19,3 +19,10 @@ User-Friendly Interface:- Designed with a clean and user-friendly interface for 
 
 screenshots -> 
 
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-10-12 at 00 13 35](https://github.com/pratikbm42/Payment_Integration_Razorpay/assets/146938244/6e63462d-565f-4374-b1cf-a5cc45ad6791)
+
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-10-12 at 00 14 49](https://github.com/pratikbm42/Payment_Integration_Razorpay/assets/146938244/a3091bd4-df0d-411e-8863-fb4424a20f59)
+
+
